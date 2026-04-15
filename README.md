@@ -40,7 +40,14 @@ Time-based data (Months & Years: 2021–2022)
  - Dynamic visuals (Line charts, Pie charts, Map visualization)
  - Drill-down analysis for better insights
  - Clean and user-friendly UI design
+
+## 📂 Dataset
+You can access the dataset from the link below:
+
+[View Dataset on Google Sheets](https://docs.google.com/spreadsheets/d/18mBtpEZ7NQ-cD-U8OP9s1XhbMDuRdOFZ/edit?usp=drive_link)
+
 ## 📸 Dashboard Preview
+<img width="981" height="798" alt="Screenshot 2026-04-10 231729" src="https://github.com/user-attachments/assets/3a8f1ca2-fde6-405f-903a-9b665a6a0654" />
 
 ## 📌 Use Case
 
